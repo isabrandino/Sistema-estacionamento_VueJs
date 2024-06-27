@@ -1,0 +1,22 @@
+{
+  "status": [
+    {
+      "id": "1",
+      "tipo": "Solicitado"
+    },
+    {
+      "id": "2",
+      "tipo": "Finalizado"
+    }
+  ],
+  "carros": [
+    {
+      "id": "aff3",
+      "nome": "André Souza",
+      "nomeCar": "Gol G4",
+      "placaCar": "ISA-0508",
+      "hora": "23:00",
+      "status": "Solicitado"
+    }
+  ]
+}
